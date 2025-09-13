@@ -6,10 +6,10 @@ A minilab solution that is fully modular, 3D printable and open source.
 
 # Why not 10" rack?
 10" racks are beautiful, I built several for different use cases and I love them. But I needed something different:
-* It's considerably smaller than common 10" racks and while it can support almost all devices supported by 10" format.
-* It's square, so any panel/tray can be placed any side. It provides flexibility for cooling, cabling, HMI.
-* Couple of PLA rolls are much cheaper than most 10" rack solutions. Also, M3 screws are also much cheaper than M6 rack screws while looking more proportional and being able to support the weight any equipment below.
-* It is's been fun to design and build it so far.
+* Something considerably smaller than common 10" racks and while it can support almost all devices supported by 10" format.
+* Something square, so any panel/tray can be placed any side. To provide flexibility for cooling, cabling, HMI.
+* Something fully 3D printable. Couple of PLA rolls are much cheaper than most 10" rack solutions. M3 screws are also much cheaper than M6 rack screws while looking more proportional and being able to support the weight of any equipment listed below.
+* Something fun to design and build.
 
 # Components
 
@@ -96,9 +96,8 @@ A minilab solution that is fully modular, 3D printable and open source.
 | Extension-ITX-5U | NOT TESTED | See: Extension-ITX-1U |
 
 # Materials
-* M3x10 (or M3x12) screws
-* M3 nuts
-* [Optional] 8x3mm Magnets for magnetic panels
+* M3x10 (or M3x12) screws and nuts (How many: Min 32 screw-nut pairs if all side panels are magnetic, 112 pairs for full screw-nut 6U build, I use ~160-180 pairs for my 6+4 extended setup combined with magnetic panels)
+* [Optional] 8x3mm Magnets for magnetic panels, 4 magnets/1U
 
 # Notes
 * All side panels have the same dimension standards, so any panel/tray can be attached to any side. Just make sure to put magnets/nuts behind the needed spots before assembling everything for a better general use experience.
@@ -116,4 +115,3 @@ A minilab solution that is fully modular, 3D printable and open source.
 - [ ] Trays for more mini PC models
 - [ ] M3 insert version for columns
 - [ ] Handles to carry it around
-- [ ] 
